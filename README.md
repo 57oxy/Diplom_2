@@ -1,2 +1,2 @@
 # Diplom_2
-UI tests for diplom_2
+API tests for diplom_2
